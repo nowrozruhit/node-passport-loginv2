@@ -1,0 +1,1 @@
+Updated version of previous login registration app with better UI and a cleaner implementation of authentication process
